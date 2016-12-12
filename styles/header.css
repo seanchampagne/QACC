@@ -1,0 +1,28 @@
+header {
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: #003300;
+  color: #f7f2f2;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+header ul {
+  display: block;
+  text-align: center;
+  margin-top: 40px;
+}
+
+header li {
+  display: inline-block;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+header li:hover {
+  color:#e5c100;
+}
+
+header h1 {
+  text-align: center;
+}

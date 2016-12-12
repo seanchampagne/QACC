@@ -1,0 +1,13 @@
+#archives h1 {
+  text-align: center;
+  color: #0A3138;
+}
+
+#archives p {
+  text-align: center;
+  color: black;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-bottom: 4%;
+  line-height: 1.5em;
+}
