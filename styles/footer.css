@@ -1,0 +1,23 @@
+footer {
+  height: 50px;
+  width: 100%;
+  background-color: #003300;
+  color: #f7f2f2;
+}
+
+footer ul {
+  text-align: center;
+  padding-top: 20px;
+}
+
+footer li:hover {
+  color:#e5c100;
+}
+
+@media only screen and(max-width: 640px) {
+
+  footer {
+    height: 70px;
+  }
+
+}

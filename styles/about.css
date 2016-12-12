@@ -1,0 +1,45 @@
+#about {
+  display: none;
+  padding: 2%;
+}
+
+#about div {
+  margin-bottom: 4%;
+}
+
+#about img {
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#about h1 {
+  text-align: center;
+  padding-top: 4%;
+}
+
+#about p {
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  line-height: 2em;
+}
+
+@media only screen and (max-width: 640px) {
+
+  #about p {
+    display: inherit;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+  }
+  #bylaws {
+    display: none;
+  }
+}
